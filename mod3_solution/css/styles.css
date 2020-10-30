@@ -172,14 +172,25 @@ div.container{
 
 
 
-div.row{
-  height=1000px;
-  font-size: 20px;
-  
+div.col-xs-12{
+  height= 1000px;
+  font-size: 19px;
+  text-align: left;
+  font-family: 'Syne Tactile', cursive;
+    font-family: 'Trispace', sans-serif;
+  font-weight: normal;
+    color:#404040;
+
+
 }
 
 
-
+div.row{
+  font-size: 27px;
+  font-weight: bolder;
+  text-align: center;
+  font-family: 'Syne Mono', monospace;
+}
 
 
 
